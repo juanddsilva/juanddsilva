@@ -1,16 +1,27 @@
-### Hi there 👋
+Olá! Eu sou o Juan Gabriel 👋
+Sou Estudante Front End Developer 💻
 
-<!--
-**juanddsilva/juanddsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/juanddsilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanddsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanddsilva&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------------------------------------------------
+Acessar Portfólio
+------------------------------------------------------
+
+
+- 🚀   Buscando novos desafios
+- 🔭   Buscando colaborar com projetos desafiadores
+- 💻   Minha stack: HTML, CSS e JavaScript
+- 📘   Estudando: ReactJS, Node.js, React Native, Typescript & SQLserver
+- 😄   Sobre mim: Gosto de tecnologias, de pensar em ideias empreendedoras, jogar videogame com amigos, séries e momentos com a família.
+
+Tecnologias:
+Caio-js Caio-css Caio-css Caio-css Caio-css Caio-css Caio-css
+
+Entre em contato comigo:
+ 
