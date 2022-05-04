@@ -1,5 +1,11 @@
-Olá! Eu sou o Juan Gabriel 👋
+<h3 align="center">Olá! Eu sou o Juan Gabriel 👋 <br>
 Sou Estudante Front End Developer 💻
+   <br>
+   <br>
+  <h3>
+ 
+  
+ 
 
 <div align="center">
   <a href="https://github.com/juanddsilva">
@@ -11,23 +17,18 @@ Sou Estudante Front End Developer 💻
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
-  ![Snake animation](https://github.com/juanddsilva/juanddsilva/blob/output/github-contribution-grid-snake.svg)
 
 
 ------------------------------------------------------
-Acessar Portfólio
-------------------------------------------------------
+ <h4 align="center">😄   Sobre mim: Gosto de tecnologias, de pensar em ideias empreendedoras, jogar videogame com amigos, séries e momentos com a família.</h4>
+<br>
 
 
 - 🚀   Buscando novos desafios
 - 🔭   Buscando colaborar com projetos desafiadores
 - 💻   Minha stack: HTML, CSS e JavaScript
-- 📘   Estudando: ReactJS, Node.js, React Native, Typescript & SQLserver
-- 😄   Sobre mim: Gosto de tecnologias, de pensar em ideias empreendedoras, jogar videogame com amigos, séries e momentos com a família.
+- 📘   Estudando: ReactJS, Node.js, React Native & Typescript
 
-Tecnologias:
-Caio-js Caio-css Caio-css Caio-css Caio-css Caio-css Caio-css
 
-Entre em contato comigo:
+
  
