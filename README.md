@@ -20,7 +20,7 @@ Sou Estudante Front End Developer 💻
 
 
 ------------------------------------------------------
- <h4 align="center">😄   Sobre mim: Gosto de tecnologias, de pensar em ideias empreendedoras, jogar videogame com amigos, séries e momentos com a família.</h4>
+ <h5 align="center">😄   Sobre mim: Gosto de tecnologias, de pensar em ideias empreendedoras, jogar videogame com amigos, séries e momentos com a família.</h5>
 <br>
 
 
